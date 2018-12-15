@@ -1,4 +1,4 @@
-# Learning Java projects
+# Learning Java
 
 These projects include the following: 
 * Course exercises

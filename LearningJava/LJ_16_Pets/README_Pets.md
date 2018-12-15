@@ -6,8 +6,6 @@
 * Dog.java
 * Cat.java
 
-**Documentation:**
-
 **Source description:** Lynda.com Learning Java exercise on interfaces
 
 ## LJ_16_Pets
