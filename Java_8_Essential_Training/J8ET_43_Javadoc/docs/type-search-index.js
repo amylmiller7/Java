@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"exercises.model","l":"Kalamata"},{"p":"exercises.model","l":"Ligurian"},{"p":"exercises","l":"Main"},{"p":"exercises.model","l":"Olive"},{"p":"exercises.model","l":"OliveColor"},{"p":"exercises.model","l":"OliveName"},{"p":"exercises","l":"OlivePress"},{"p":"exercises","l":"Press"}]
