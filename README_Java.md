@@ -3,7 +3,8 @@ Repository includes projects inspired by classes. Done as assignments, projects 
 
 ## Classes
 * Learning Java, Lynda.com, Kathryn Hodge
+* Java 8 Essential Training, Lynda.com, David Gassner
 
 ## Notes
 
-Open the java scr files with any IDE, such as IntelliJ.
+Open the java scr files with IntelliJ IDEA.
