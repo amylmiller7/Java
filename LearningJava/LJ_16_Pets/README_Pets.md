@@ -1,6 +1,6 @@
 # Pets
 
-**Classes:** 
+**Java files:** 
 * Main.java
 * Pet.java
 * Dog.java
@@ -8,7 +8,6 @@
 
 **Source description:** Lynda.com Learning Java exercise on interfaces
 
-## LJ_16_Pets
 **Summary:** Creates Pet, Dog, and Cat constructors and a method. Calls method in the Pet interface for Dog and Cat instances. Randomly assigns Dog or Cat instance and calls the play method on the appropriate class.
 
 **Main.java:** Creates Pet, Dog, and Cat instances. Dog and Cat classes implement the Pet class and print unique messages for the method under the Pet class. Randomly returns Pet instance, sets it as Dog or Cat, and calls the method for the assigned pet type.
